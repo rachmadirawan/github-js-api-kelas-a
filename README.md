@@ -184,7 +184,6 @@ Link Github : https://github.com/javacreatiox
 
     Link Github : https://github.com/jhonywong
 
-
 48. Nama : Septian Putra
 
     Link Github : https://github.com/sputerah
@@ -193,11 +192,9 @@ Link Github : https://github.com/javacreatiox
 
     Link Github : https://github.com/Rahmadien
 
-
 50. Nama : Amri Khoirul Hakim
 
     Link Github : https://github.com/amrihakim
-
 
 51. Nama: Felicia Kusuma
     Link Github : https://github.com/flsksm2611
@@ -233,3 +230,7 @@ Link Github : https://github.com/javacreatiox
 59. Nama : Dyah Retno Mutia
 
     Link Github : https://github.com/dyahretnomutia
+
+60. Nama : Gusti Muhammad Adzaky
+
+    Link Github : https://github.com/GustiMuhammadAdzaky
