@@ -256,3 +256,7 @@
 63. Nama : I Putu Wira Pratama Putra
 
     Link Github : https://github.com/wirapratamaz
+
+63. Nama : Simon Rioland S
+
+    Link Github : https://github.com/simonjuntak
