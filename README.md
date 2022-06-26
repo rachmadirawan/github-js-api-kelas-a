@@ -257,10 +257,24 @@
 
     Link Github : https://github.com/wirapratamaz
 
-63. Nama : Simon Rioland S
+64. Nama : Simon Rioland S
 
     Link Github : https://github.com/simonjuntak
 
-64. Nama : Kadek Frama Danamastyana
+
+65. Nama : Kadek Frama Danamastyana
 
     Link Github : https://github.com/kadekframa
+
+    
+66. Nama : Indah Paksi Larasati
+
+    Link Github : https://github.com/hadni17
+    
+67. Nama : Annisa Fadhilah
+
+    Link Github : https://github.com/AnnisaFdd
+
+
+
+
