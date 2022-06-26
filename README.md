@@ -260,14 +260,21 @@
 64. Nama : Simon Rioland S
 
     Link Github : https://github.com/simonjuntak
+
+
+65. Nama : Kadek Frama Danamastyana
+
+    Link Github : https://github.com/kadekframa
+
     
-65. Nama : Indah Paksi Larasati
+66. Nama : Indah Paksi Larasati
 
     Link Github : https://github.com/hadni17
     
-66. Nama : Annisa Fadhilah
+67. Nama : Annisa Fadhilah
 
     Link Github : https://github.com/AnnisaFdd
+
 
 
 
