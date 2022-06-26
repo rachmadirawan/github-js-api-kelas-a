@@ -257,12 +257,17 @@
 
     Link Github : https://github.com/wirapratamaz
 
-    
-63. Nama : Annisa Fadhilah
-
-    Link Github : https://github.com/AnnisaFdd
-
 64. Nama : Simon Rioland S
 
     Link Github : https://github.com/simonjuntak
+    
+65. Nama : Indah Paksi Larasati
+
+    Link Github : https://github.com/hadni17
+    
+66. Nama : Annisa Fadhilah
+
+    Link Github : https://github.com/AnnisaFdd
+
+
 
